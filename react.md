@@ -10,6 +10,7 @@ Video (in order of ease)
 
 Additional Reading Material
 - https://reactjs.org/tutorial/tutorial.html
+- https://reactjs.org/docs/hello-world.html (Main Concepts)
 - https://www.reactnative.express/react (Chapter 2.2 and 3 only)
 
 Topics
