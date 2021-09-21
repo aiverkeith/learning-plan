@@ -31,7 +31,7 @@ Javascript Part 2
 
 
 Web APIs
-- DOM
+- DOM Manipulation
 
 
 Final Exercise
