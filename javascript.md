@@ -22,12 +22,14 @@ Javascript Part 1
 - String formatting (Template Literal)
 - Promises, async/await
 - Modules (ESM)
-
-Javascript Part 2
 - Closures
 - Hoisting
+
+Javascript Part 2
 - Generators
 - Iterators
+- Event loop
+- etc
 
 
 Web APIs
