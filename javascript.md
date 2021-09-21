@@ -31,8 +31,9 @@ Javascript Part 2
 
 
 Web APIs
-- DOM Manipulation
-
+- DOM Manipulation 
+  - https://www.youtube.com/watch?v=y17RuWkWdn8
+  - https://www.youtube.com/watch?v=0ik6X4DJKCc (Part 1 to 4)
 
 Final Exercise
 - Todo list 
