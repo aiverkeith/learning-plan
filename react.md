@@ -3,10 +3,10 @@
 Introduction
 - https://www.youtube.com/watch?v=Tn6-PIqc4UM
 
-Video (in order of ease)
+Video
+- https://www.youtube.com/watch?v=nTeuhbP7wdE
 - https://www.youtube.com/watch?v=Dorf8i6lCuk
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
-- https://www.youtube.com/watch?v=nTeuhbP7wdE
 
 Additional Reading Material
 - https://reactjs.org/tutorial/tutorial.html
