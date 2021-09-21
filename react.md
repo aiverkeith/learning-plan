@@ -30,3 +30,5 @@ Advanced
 - State management with Redux
 
 
+Exercise
+Todo app with https://jsonplaceholder.typicode.com/
